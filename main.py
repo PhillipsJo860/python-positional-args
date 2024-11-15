@@ -73,6 +73,6 @@
 
 def area_of_rect(width, length):
     area = length * width
-    print(F'The rounded area of the rectangle is {area}')
+    print(f'The rounded area of the rectangle is {area}')
 
 area_of_rect(length=32, width=40)
